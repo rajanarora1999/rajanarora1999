@@ -30,7 +30,7 @@ Pursuing Bachelor's Of Technology focussed in Electronics & Communication.
 
 ### Certifications:
 <img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.youracclaim.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="160" height="160" />
-<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.youracclaim.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="160" height="160" />" width="160" height="160" />
+<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.youracclaim.com/size/680x680/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png" width="160" height="160" />
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <hr />
 
