@@ -21,9 +21,7 @@ Pursuing Bachelor's Of Technology focussed in Electronics & Communication.
 -  Machine Learning
 - Web Scrapping
 - Web Automation
-
-<br/><br/><br/><hr/>
-
+<br/><br/><br/>
 ### Extra Co-curricular activities (Executive/Senior Member at) :
 
 - President, Codechef Chapter NITJ
@@ -31,12 +29,8 @@ Pursuing Bachelor's Of Technology focussed in Electronics & Communication.
 <hr/>
 
 ### Certifications:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="935b5e13-69d9-45de-9ad8-4c50282ba762" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.youracclaim.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="160" height="160" />
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba0b8cc0-54dd-4ef3-9f2d-287753f8e6f5" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<hr/>
 
 ### Connect with me:
 
@@ -50,5 +44,5 @@ Pursuing Bachelor's Of Technology focussed in Electronics & Communication.
 
 :zap: Github Stats
 
-  <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=s-amardeep&show_icons=true&hide_border=true&theme=dracula" />-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-amardeep&theme=dracula&layout=compact" />
+  <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=rajanarora1999&show_icons=true&hide_border=true&theme=dracula" />-->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanarora1999&theme=dracula&layout=compact" />
