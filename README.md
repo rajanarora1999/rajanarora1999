@@ -9,11 +9,11 @@ Pursuing Bachelor's Of Technology focussed in Electronics & Communication.
 
 <hr/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeme13&show_icons=true" alt="ArpitSaini">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajanarora1999&show_icons=true" alt="Rajan Arora">
 </p>
   <p align="center">
-                   <a href="https://www.linkedin.com/in/arpit5437" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-                       <a href="https://twitter.com/arpitsaini123" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
+                   <a href="https://www.linkedin.com/in/rajan-arora-06121999/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+                       <a href="https://www.linkedin.com/in/rajan-arora-06121999/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
   </p>
   
 ### Programming Languages:
